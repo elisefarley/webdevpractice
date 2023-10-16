@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "node": "^20.7.0"
+  },
+  "name": "sample_project",
+  "version": "0.1.0",
+  "description": "in class oct 16 2023",
+  "main": "./src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elisefarley/webdevpractice.git"
+  },
+  "keywords": [
+    "random",
+    "apple",
+    "shoe",
+    "tesla"
+  ],
+  "author": "E. Farley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elisefarley/webdevpractice/issues"
+  },
+  "homepage": "https://github.com/elisefarley/webdevpractice#readme"
+}
